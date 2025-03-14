@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a CS/DS student on a journey to become a Quant 📊
+I'm a CS/DS student on a journey to get into Finance 📊
 
 🚀 With a strong foundation in software development, I'm passionate about bridging the gap between technology and finance. I love building scalable applications while diving deep into quantitative analysis and financial algorithms.
 
