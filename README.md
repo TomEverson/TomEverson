@@ -16,6 +16,3 @@ I'm a CS/DS student on a journey to get into Finance 📊
 - 📚 Finance and tech enthusiast by night
 - 🌱 Always eager to learn and tackle new challenges
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/TomEverson?theme=forest&font=Roboto%20Mono&ext=contest" width="500" alt="LeetCode Stats">
-</div>
